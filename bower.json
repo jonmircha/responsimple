@@ -1,0 +1,13 @@
+{
+  "name": "responsimple",
+  "version": "1.0.0",
+  "description": "A simple, flexible & responsive CSS grid system",
+  "homepage": "http://jonmircha.github.io/responsimple/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonmircha/responsimple.git"
+  },
+  "main": "responsimple.min.css",
+  "author": "@jonmircha",
+  "ignore": []
+}

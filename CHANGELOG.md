@@ -1,9 +1,6 @@
-![Responsimple](http://jonmircha.github.io/responsimple/img/responsimple-logo.png)
-# Responsimple v1.0.0
-## A simple, flexible & responsive CSS grid system
+=== HEAD
 
-### What is?
-Responsimple is a mobile first's grid system written 100% pure CSS code with awesome features
+=== 1.0.0 (November 05, 2015)
 
 ### Features
 * A Simple Reset inspired by
@@ -28,5 +25,3 @@ Responsimple is a mobile first's grid system written 100% pure CSS code with awe
 	* Font Sizes
 	* Margins & Paddings
 	* Borders & Displays
-### [More information](http://jonmircha.github.io/responsimple)
-#### Responsimple is a project by [@jonmircha](http://jonmircha.com),
