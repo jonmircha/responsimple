@@ -1,0 +1,102 @@
+html { font-family: 'Raleway';	}
+
+a { color:#FF5700; }
+
+a:hover { color:#999; } 
+
+h2 { font-size: .75rem; }
+
+h3 {
+	font-size: 2rem;
+	font-weight: bold;
+	color: #FF5700;
+}
+
+h4 {
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #666;
+}
+
+h5 {
+	padding-top: 1.5rem !important;
+	font-size: 1.25rem;
+	font-weight: bold;
+	color: #999;
+}
+
+pre { overflow: hidden; }
+
+table code, pre > code { font-size: .5rem; }
+
+table { 
+	width: 100%;
+	text-align: center;
+}
+
+table tr:first-child { font-weight: bold; }
+
+.gray { background-color: #CCC; }
+
+.orange { background-color: #FF5700; }
+
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 6.75rem;
+	border-bottom: thin solid #FF5700;
+	background-color: #CCC;
+}
+
+.header img { max-width: 2rem; }
+
+.after-fixed { padding-top: 7rem; }
+
+.section-title { padding-top: 2rem; }
+
+.section-theme { padding: 1.5rem .5rem .5rem .5rem; }
+
+.code-ib-l {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.code-ib-r {
+	padding-top: 0;
+	padding-bottom: 1rem;
+}
+
+.example {
+	background-color: #999;
+	padding: 1rem;
+}
+
+.example > .item {
+	margin: 1rem auto;
+	background-color: #CCC;
+	border: thin solid #FF5700;
+}
+
+@media screen and (min-width: 30em) {
+	/* .header { background-color: red; } */
+}
+
+@media screen and (min-width: 48em) {
+	/* .header { background-color: green; } */
+
+	h2 { font-size: 1rem; }
+
+	table code, pre > code { font-size: 1rem; }
+}
+
+@media screen and (min-width: 64em) {
+	/* .header { background-color: blue; } */
+
+	.header { height: 7.5rem; }
+
+	.header img { max-width: 3rem; }
+
+	.after-fixed { padding-top: 8rem; }
+}
