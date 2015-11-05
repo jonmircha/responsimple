@@ -8,7 +8,7 @@ Responsimple is a mobile first's grid system written 100% pure CSS code with awe
 ### Features
 * A Simple Reset inspired by
 	* Paul Irish's [* { Box-sizing: Border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
-	* Zero Box Model ** * { margin:0; padding:0; } **
+	* Zero Box Model *** { margin:0; padding:0; }**
 	* Nicolas Gallagher's [normalize.css](http://necolas.github.io/normalize.css/)
 * Structure based on Containers & Items
 * 2 Types of Containers:
