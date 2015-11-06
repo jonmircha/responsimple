@@ -1,6 +1,10 @@
 === HEAD
 
-=== 1.0.0 (November 05, 2015)
+=== 1.0.1 (November 06, 2015)
+
+* HTML tags inline, paragraphs and list item change the font size from 16px, 1rem to inherit
+
+=== 1.0.0 (November 04, 2015)
 
 ### Features
 * A Simple Reset inspired by

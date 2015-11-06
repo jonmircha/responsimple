@@ -1,6 +1,6 @@
 {
   "name": "responsimple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, flexible & responsive CSS grid system",
   "style": "responsimple.min.css",
   "files": [
